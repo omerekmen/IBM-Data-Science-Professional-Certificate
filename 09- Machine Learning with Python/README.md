@@ -1,5 +1,7 @@
 # Machine Learning with Python
 
+## INTRODUCTION TO MACHINE LEARNING 
+
 The course covers a wide range of topics, including supervised learning, unsupervised learning, classification, regression, and clustering. You can also learn about the different machine learning algorithms and how to apply them in Python.
 
 ### Learning Topics:
@@ -11,10 +13,6 @@ The course covers a wide range of topics, including supervised learning, unsuper
 - Multiclass prediction: Classify iris flowers
 - Decision trees: Prescribe drugs based on patient data
 - K-means: Segment customer data based on characteristics
-
-
-## INTRODUCTION TO MACHINE LEARNING 
-
 
 ## REGRESSION
 
