@@ -1,5 +1,14 @@
 # Machine Learning with Python
 
+
+## 🏆 Certificates 
+To verify the certificates, click the images to follow the links.
+
+<p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/verify/SG3GASVVVYCQ"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SG3GASVVVYCQ/CERTIFICATE_LANDING_PAGE~SG3GASVVVYCQ.jpeg" height="430"></a>
+  <a href="https://www.credly.com/badges/c7b10b47-6336-401f-bcaa-f36ef16dced9/public_url"><img src="https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png" height="430"></a>
+</p>
+
 ## INTRODUCTION TO MACHINE LEARNING 
 
 The course covers a wide range of topics, including supervised learning, unsupervised learning, classification, regression, and clustering. You can also learn about the different machine learning algorithms and how to apply them in Python.
