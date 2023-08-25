@@ -15,33 +15,33 @@ To verify the certificates, click the images to follow the links.
 </p>
 
 ## 📑 Main Topics 
-  ### Introduction to Data Science:
+  ### 1. Introduction to Data Science:
     - Definition and importance of data science in today's world.
     - Paths to a career in data science.
     - Advice from experienced professionals for beginners.
     - Reasons for the high demand for data scientists.
-  ### Data Science Fundamentals:
+  ### 2. Data Science Fundamentals:
     - Understanding a typical day in the life of a data scientist.
     - Explanation of commonly used terms in data science.
     - Impact of cloud technologies on data science.
     - Key qualities of successful data scientists.
-  ### Big Data and Technologies:
+  ### 3. Big Data and Technologies:
     - Definition of big data and its characteristics (velocity, volume, veracity, value).
     - Role of Hadoop and distributed computing in digital transformation.
     - Skills required for data scientists and big data analysis.
-  ### Data Mining and Analysis:
+  ### 4. Data Mining and Analysis:
     - Introduction to data mining.
     - Importance of goal-setting, data selection, preprocessing, transformation, and storage in data mining.
-  ### Machine Learning and Deep Learning:
+  ### 5. Machine Learning and Deep Learning:
     - Difference between machine learning and deep learning.
     - Application of regression for market prediction and trend analysis.
-  ### Data Science Applications:
+  ### 6. Data Science Applications:
     - Application of data science in healthcare.
     - Initiating the data science journey for companies.
     - Generation of consumer-generated data.
-  ### Data Utilization by Businesses:
+  ### 7. Data Utilization by Businesses:
     - Examples of how companies like Netflix, Amazon, UPS, Google, and Apple leverage consumer and employee-generated data.
-  ### Data Professionals and Deliverables:
+  ### 8. Data Professionals and Deliverables:
     - Distinct qualities that set data scientists apart from other data professionals.
     - Role of storytelling and final deliverables in data science projects.
     - Structure and content of a comprehensive data science project report.
