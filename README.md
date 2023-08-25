@@ -49,3 +49,7 @@ The following Python libraries were used throughout the certification: <br>
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
+<p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/TK3PHHTVV248"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TK3PHHTVV248/CERTIFICATE_LANDING_PAGE~TK3PHHTVV248.jpeg" height="430"></a>
+
+</p>
