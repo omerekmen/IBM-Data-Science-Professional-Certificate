@@ -13,24 +13,24 @@ To verify the certificates, click the images to follow the links.
 
 ## 📑 Main Topics 
   ### Introduction to Data Visualization:
-Importance of data visualization.
-Introduction to Matplotlib and its history.
+    Importance of data visualization.
+    Introduction to Matplotlib and its history.
   ### Creating Basic Visualizations with Matplotlib:
-Generating line plots and employing Jupyter notebooks.
-Exploring immigration data to Canada.
+    Generating line plots and employing Jupyter notebooks.
+    Exploring immigration data to Canada.
   ### Exploring Various Visualization Techniques:
-Describing and creating box plots, area plots, histograms, bar charts, pie charts, scatter plots, and choropleth maps using Matplotlib and Folium.
+    Describing and creating box plots, area plots, histograms, bar charts, pie charts, scatter plots, and choropleth maps using Matplotlib and Folium.
   ### Advanced Visualization Tools:
-Discovering Seaborn for attractive regression plots.
-Introduction to Plotly and its capabilities.
+    Discovering Seaborn for attractive regression plots.
+    Introduction to Plotly and its capabilities.
   ### Creating Interactive Dashboards:
-Understanding Dash and its components.
-Utilizing Plotly graph objects and Plotly express for interactive charts.
-Creating web-based dashboards with interactivity.
+    Understanding Dash and its components.
+    Utilizing Plotly graph objects and Plotly express for interactive charts.
+    Creating web-based dashboards with interactivity.
   ### Practical Application and Review:
-Practicing dashboard creation and interactivity.
-Enhancing visualization skills with various plot libraries.
-Reviewing and grading assignments from peers.
+    Practicing dashboard creation and interactivity.
+    Enhancing visualization skills with various plot libraries.
+    Reviewing and grading assignments from peers.
 
 ## 🔑 Key Skills Learned 
 - Proficiency in using Matplotlib to create a range of visualizations.
