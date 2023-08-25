@@ -10,8 +10,8 @@ Data science is the study of extracting knowledge from data, frequently with an 
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/69ELLEGT7PBD"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~69ELLEGT7PBD/CERTIFICATE_LANDING_PAGE~69ELLEGT7PBD.jpeg" height="430"></a>
-  <a href="https://www.credly.com/badges/cdb38474-e88e-4140-b2be-e45537bea3ba/public_url"><img src="https://images.credly.com/size/680x680/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/69ELLEGT7PBD"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~69ELLEGT7PBD/CERTIFICATE_LANDING_PAGE~69ELLEGT7PBD.jpeg" height="250"></a>
+  <a href="https://www.credly.com/badges/cdb38474-e88e-4140-b2be-e45537bea3ba/public_url"><img src="https://images.credly.com/size/680x680/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" height="250"></a>
 </p>
 
 ## 📑 Main Topics 
