@@ -44,7 +44,10 @@ The following Python libraries were used throughout the certification: <br>
 
 ## 📂 Projects
 
-
+- [01. Data Science Ecosystem](https://github.com/omerekmen/DataScienceEcosystem/blob/main/DataScienceEcosystem.ipynb)
+- [02. Extracting and Visualizing Stock Data](https://github.com/omerekmen/Extracting-and-Visualizing-Stock-Data/blob/main/Final%20Assignment.ipynb)
+- [03. Working with Real World Data Sets](https://github.com/omerekmen/Working-with-real-world-data-sets)
+- [04. SpaceX Falcon 9 Landing Analysis](https://github.com/omerekmen/Space-X-Falcon-9-Landing-Analysis)
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
