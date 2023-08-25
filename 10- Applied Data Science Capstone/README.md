@@ -1,5 +1,13 @@
 # Applied Data Science Capstone
 
+## 🏆 Certificates 
+To verify the certificates, click the images to follow the links.
+
+<p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/verify/ELTKMLLCNVGN"><img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ELTKMLLCNVGN/CERTIFICATE_LANDING_PAGE~ELTKMLLCNVGN.jpeg" height="430"></a>
+  <a href="https://www.credly.com/badges/821e1fe0-9744-4221-b4db-bef465de00a7/public_url"><img src="https://images.credly.com/size/680x680/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" height="430"></a>
+</p>
+
 ## Learning Objectives
 
 - Develop Python code to manipulate data in a Pandas data frame
